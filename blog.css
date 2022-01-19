@@ -1,0 +1,75 @@
+body{
+	background-image: url("bg3.JFIF");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1{
+	font-size: 40px;
+	border: 1px solid;
+	width: 300px;
+	font-family: "Kristen ITC",sans-serif;
+	color: #519259;
+	text-align: center;
+}
+ul{
+	font-family: "Kristen ITC", sans-serif;
+	list-style-type: none;
+	padding:0px;
+	margin: 0px;
+	overflow: hidden;
+	background-color: #6D9886;
+}
+li a{
+	float: left;
+	display: block;
+	color: white;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration:none;
+	border-right: 1px solid white;
+	min-width:60px;
+}
+
+li a:hover{
+	background-color: #406343;
+	
+	animation: myGlowAnimation;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes myGlowAnimation{
+	50% {text-shadow: 0px 0px 10px #A2CDCD;}
+}
+.gallery{
+	border: 2px solid #274e13;				
+}
+.gallery{
+	float: center;
+}
+
+.gallery img{
+	width: 50%;
+	height: 50%;
+	padding-bottom: 20px;
+}
+h3{
+	text-align: bottom;
+	font-family: "Ink Free", sans-serif;
+	font-style: underline;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: normal;
+	color: #461111;
+}
+b{
+	text-align: center;
+	font-family: "Kristen ITC", sans-serif;
+	font-style: underline;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: expanded;
+	color: #a2c4c9;
+}

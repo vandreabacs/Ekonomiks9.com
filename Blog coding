@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blogs</title>
+
+</head>
+<body bgcolor="ECDBBA">
+<header>
+<img src="logo.png">
+</header>
+<hr>
+<center>
+<nav>
+	<table cellspacing="10" cellpadding="10">
+	
+</center>
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Blog.html">Blogs</a></td>
+<td><a href="about us.html">About us</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+
+<h1 align="center"><font face="Showcard Gothic" color"violet">Blog</h1></font><br/>
+<body>
+	<div class"responsive">
+		<div class"gallery">
+			<a href="blogNinaAn.png" target="_blank"><img src="blogNinaAn.png" width="160" height="160"></a>
+			<div class="des">Bakit nagbabago ang mga Presyo?</div>
+			<div><button class="button"><a href="blogNina.html"><b>BUKSAN</b></a></button></div>
+		</div>
+	</div>
+		
+	<div class="responsive">
+		<div class="gallery">
+			<a href="blogVida.png" target="_blank"><img src="blogVida.png" width="160" height="160"></a>
+			<div class="des">Bakit nagbabago ang mga Presyo?</div>
+			<div><button class="button"><a href="blogVida.html"><b>BUKSAN</b></a></button></div>
+		</div>
+	</div>
+	
+	<div class="responsive"> 
+		<div class="gallery">
+			<a href="blogEliza.png" target="_blank"><img src="blogEliza.png" width="160" height="160"></a>
+			<div class="des">Bakit nagbabago ang mga Presyo?</div>
+			<div><button class="button"><a href="blogEliza.html"><b>BUKSAN</b></a></button></div>
+		</div>
+	</div>
+	
+	<div class="responsive">
+		<div class="gallery">
+			<a href="blogAbian.png" target="_blank"><img src="blogAbian.png" width="160" height="160"></a>
+			<div class="des">Bakit nagbabago ang mga Presyo?</div>	
+			<div><button class="button"><a href="blogNinaABIAN.html"><b>BUKSAN</b></a></button></div>
+		</div>
+	</div>
+	
+	<div class="responsive"> 
+		<div class="gallery">
+			<a href="blogKD.png" target="_blank"><img src="blogKD.png" width="160" height="160"></a>
+			<div class="des">Bakit nagbabago ang mga Presyo?</div>							
+			<div><button class="button"><a href="blogKD.html"><b>BUKSAN</b></a></button></div>
+		</div>
+	</div>
+	
+	<div class="responsive"> 
+		<div class="gallery">
+			<a href="blogFlerk.png" target="_blank"><img src="blogFlerk.png" width="160" height="160"></a>
+			<div class="des">Bakit nagbabago ang mga Presyo?</div>						
+			<div><button class="button"><a href="blogFlerk.html"><b>BUKSAN</b></a></button></div>
+		</div>
+	</div>
+	</section>
+	<div class="footer">
+		<h3> IN GOD's MERCY. WE SERVE WITH JOY!</h3>
+	</div>
+	</body>
+	</html>
